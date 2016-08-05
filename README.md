@@ -1,12 +1,19 @@
 # b0mbr
 SMS Text Bomber for Bash
+
 By SousedSysAdmin
+
 sousedsysadmin.com
+
 Version: 2.0
 
+
 USE AT OWN RISK
+
 Entertainment Purposes Only
+
 Author is not responsible for use of others
+
 
 Requires mail bash function.  Only tested on CentOS.
 
